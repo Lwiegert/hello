@@ -12,6 +12,8 @@
 
     printf("Lindsey wiegert!\n");
     printf("Computer Engineering\n");
+    printf("Hanna Tran\n");
+    printf("Computer Science\n");
     
     return 0;
 }
